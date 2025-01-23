@@ -7,7 +7,7 @@
 ---
  <div id="header" align="left">
    
- <h1>
+<h1 style="text-align: center;">
   Hola soy Jafet. ¡Un gusto de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>

@@ -26,6 +26,8 @@ Apasionado por la tecnología y dedicado al mundo del Data Science
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
+   <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+ </a>
  
 
 </div>

@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafet-lopez-zu%C3%B1iga-477aa2261/)
 </div>
 

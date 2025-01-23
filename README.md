@@ -2,7 +2,9 @@
   <img decoding="async" src="https://github.com/jafet-alf97/data-scientist-portfolio/blob/main/portada-github.png" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafet-lopez-zu%C3%B1iga-477aa2261/)
+<div align="center">
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafet-lopez-zu%C3%B1iga-477aa2261/)
+</div>
 
 ---
  <div id="header" align="left">
@@ -13,7 +15,7 @@
     <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-### :man_technologist: Sobre mí :
+:man_technologist: Sobre mí :
 Apasionado por la tecnología y dedicado al mundo del Data Science
 
 * Soy **Científico de Datos** con sólidos conocimientos en análisis estadístico, programación en Python, SQL, y manejo de datos con herramientas como Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, Jupyter Notebook, Seaborn y GitHub.

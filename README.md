@@ -6,6 +6,11 @@
 
 ---
  <div id="header" align="left">
+   
+ <h1>
+  Hola soy Jafet. ¡Un gusto de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### :man_technologist: Sobre mí :
 Apasionado por la tecnología y dedicado al mundo del Data Science

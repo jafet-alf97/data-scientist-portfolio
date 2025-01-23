@@ -16,3 +16,16 @@ Apasionado por la tecnología y dedicado al mundo del Data Science
 * Mi enfoque se centra en la **resolución de problemas** mediante análisis exploratorios y la implementación de modelos de Machine Learning para generar soluciones innovadoras y eficaces.
 
 * **Busco nuevos retos profesionales** donde pueda aplicar mis habilidades para innovar, aportar valor en equipos dinámicos y contribuir a la toma de decisiones estratégicas mediante soluciones basadas en datos.
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ 
+
+</div>

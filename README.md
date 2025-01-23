@@ -9,7 +9,6 @@
 
 ### :man_technologist: Sobre mí :
 Apasionado por la tecnología y dedicado al mundo del Data Science
-## Sobre mí
 
 * Soy **Científico de Datos** con sólidos conocimientos en análisis estadístico, programación en Python, SQL, y manejo de datos con herramientas como Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, Jupyter Notebook, Seaborn y GitHub.
 

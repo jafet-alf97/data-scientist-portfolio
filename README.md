@@ -27,4 +27,5 @@ Apasionado por la tecnología y dedicado al mundo del Data Science
    <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
  </a>
 </div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jafet-alf97&theme=dark&background=000000)](https://git.io/streak-stats)
